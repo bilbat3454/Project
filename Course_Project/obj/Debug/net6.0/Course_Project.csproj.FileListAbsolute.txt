@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\Course_Project.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\Course_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\Course_Project.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\Course_Project.AssemblyInfo.cs
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\Course_Project.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Project\Course_Project\bin\Debug\net6.0\Course_Project.exe
+C:\Users\student\Desktop\Project\Course_Project\bin\Debug\net6.0\Course_Project.deps.json
+C:\Users\student\Desktop\Project\Course_Project\bin\Debug\net6.0\Course_Project.runtimeconfig.json
+C:\Users\student\Desktop\Project\Course_Project\bin\Debug\net6.0\Course_Project.dll
+C:\Users\student\Desktop\Project\Course_Project\bin\Debug\net6.0\Course_Project.pdb
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\Course_Project.dll
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\refint\Course_Project.dll
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\Course_Project.pdb
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\Course_Project.genruntimeconfig.cache
+C:\Users\student\Desktop\Project\Course_Project\obj\Debug\net6.0\ref\Course_Project.dll
